@@ -1,5 +1,7 @@
 # Smart ATS - TalentMap
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/bd5e213f-c958-4773-a4ae-11863a4ea9d7)
+
 
 Smart ATS is a resume evaluation tool designed to help job seekers enhance their resumes for better compatibility with Applicant Tracking Systems (ATS). The app compares a resume with a job description, calculates the match percentage, identifies missing keywords, and provides a profile summary to help candidates tailor their resumes for specific job roles.
 
@@ -23,7 +25,7 @@ Smart ATS is a resume evaluation tool designed to help job seekers enhance their
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/smart-ats.git
+   git clone https://github.com/yourusername/smart-ats-talentmap.git
    cd smart-ats
    ```
 
@@ -70,6 +72,8 @@ Each response will be in the following JSON structure:
   "Profile Summary": "Summary of candidate strengths and improvements."
 }
 ```
+
+![image](https://github.com/user-attachments/assets/ea43d088-a1be-4e31-8514-ee2e3689750e)
 
 ## Future Enhancements
 
